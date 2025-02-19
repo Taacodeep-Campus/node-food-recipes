@@ -1,0 +1,23 @@
+[
+  {
+    "name": "Spaghetti Bolognese",
+    "ingredients": [
+      "spaghetti",
+      "ground beef",
+      "tomato sauce"
+    ],
+    "instructions": "Cook spaghetti and mix with sauce",
+    "id": 1
+  },
+  {
+    "name": "Pancakes",
+    "ingredients": [
+      "flour",
+      "milk",
+      "eggs",
+      "sugar"
+    ],
+    "instructions": "Mix ingredients and fry on a pan. Make sure to add oil",
+    "id": 2
+  }
+]
